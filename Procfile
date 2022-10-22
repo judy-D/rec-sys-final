@@ -1,1 +1,1 @@
-web: gunicorn recSysCourses:app
+web: gunicorn app:app
